@@ -20,7 +20,7 @@ body{
   letter-spacing: 5px;
 }
 
-.days, .hours, .minutes, .seconds {
+.days, .hours, .minutes, {
   display: inline-block;
   padding: 20px;
   width: 100px;
@@ -40,9 +40,7 @@ body{
   background: #276FBF;
 }
 
-.seconds {
-  background: #F0A202;
-}
+
 
 .numbers {
   font-family: 'Montserrat', sans-serif;
